@@ -19,8 +19,7 @@
 
 
 <div style='display: block;'>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkarauti11&show_icons=true&locale=en&layout=compact" alt="omkarauti11" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=omkarauti11&show_icons=true&locale=en&layout=compact" alt="omkarauti11" /></p>
   <br/>
   <a href="https://app.daily.dev/omkarauti"><img src="https://api.daily.dev/devcards/9accf4cbbf9748b7a466ea874c6a7337.png?r=mfa" width="400" alt="Omkar Auti's Dev Card"/></a>
 </div>
-
