@@ -22,7 +22,4 @@
     <div style="flex-grow: 1;">
         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkarauti11&show_icons=true&locale=en&layout=compact" alt="omkarauti11" height="200" />
     </div>
-    <div style="width: 50%;">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkarauti11&" alt="omkarauti11" height="200" />
-    </div>
 </div>
