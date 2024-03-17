@@ -18,9 +18,11 @@
 
 <a href="https://app.daily.dev/omkarauti"><img src="https://api.daily.dev/devcards/v2/9WzPv8YLIabFFXldVgVCd.png?type=default&r=gtg" width="230" height="300" alt="Omkar Auti's Dev Card"/></a>
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkarauti11&show_icons=true&locale=en&layout=compact" alt="omkarauti11" height="200" />
-</p>
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkarauti11&" alt="omkarauti11" height="200" />
-</p>
+<div style="display: flex;">
+    <div style="flex-grow: 1;">
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkarauti11&show_icons=true&locale=en&layout=compact" alt="omkarauti11" height="200" />
+    </div>
+    <div style="width: 50%;">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkarauti11&" alt="omkarauti11" height="200" />
+    </div>
+</div>
