@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarauti11&label=Profile%20views&color=0e75b6&style=flat" alt="omkarauti11" /> </p>
 
-- 💬 Ask me about **AI/ML,MERN**
-
-- 📫 How to reach me **omkarauti11052001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
